@@ -24,7 +24,7 @@
 | **Email ID** | avinashbankur48@gmail.com |
 | **College** | BEARYS INSTITUTE OF TECHNOLOGY |
 | **Branch / Specialization** | VLSI / Physical Design |
-| **College ID** | 4BP22EC005 |
+| **USN** | 4BP22EC005 |
 
 ---
 
